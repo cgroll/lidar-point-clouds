@@ -1,0 +1,12 @@
+numpy==1.26.4
+jupyter
+open3d
+laspy
+matplotlib
+pandas
+pyvista
+scipy
+trame
+jupyterlab>=3
+ipywidgets
+pyvista[all,trame]
